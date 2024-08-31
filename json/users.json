@@ -1,0 +1,32 @@
+[
+    { 
+        "id": 1, 
+        "name": "Pedro Augusto",
+        "email": "pedro@example.com", 
+        "senha": "teste@123"
+    },
+    { 
+        "id": 2, 
+        "name": "Maria Oliveira", 
+        "email": "maria@example.com",
+        "senha": "teste@123" 
+    },
+    { 
+        "id": 3, 
+        "name": "Carlos Souza", 
+        "email": "carlos@example.com",
+        "senha": "teste@123" 
+    },
+    { 
+        "id": 4, 
+        "name": "Ana Costa", 
+        "email": "ana@example.com",
+        "senha": "teste@123"
+    },
+    { 
+        "id": 5, 
+        "name": "João Pereira", 
+        "email": "joao@example.com", 
+        "senha": "teste@123"
+    }
+]
